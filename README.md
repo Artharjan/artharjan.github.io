@@ -1,5 +1,3 @@
-# artharjan.github.io
-<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
@@ -7,7 +5,6 @@
 <title>Artharjan | Financial Awareness</title>
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Fraunces:ital,wght@0,500;0,600;0,700;1,500&family=Poppins:wght@400;500;600&family=Yatra+One&display=swap');
-
 :root{
   --cream: #FBF6EE;
   --navy: #1B2E4A;
